@@ -2,6 +2,8 @@
 
 I've created a Queen-inspired trivia game!
 
+To play, click here! https://annikizzle.github.io/TriviaGame/
+
 JavaScript Assignment #2
 
 This assignment was to create a Trivia game using JavaScript for the logic and jQuery to manipulate HTML, with valid HTML and stylish CSS.
